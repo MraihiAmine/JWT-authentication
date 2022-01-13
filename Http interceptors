@@ -1,0 +1,5 @@
+Interceptors are a way to do some work for every single HTTP request or response.
+Here are a few examples of common use cases for interceptors:
+Add a token or some custom HTTP header for all outgoing HTTP requests
+Catch HTTP responses to do some custom formatting (i.e. convert CSV to JSON) before handing the data over to your service/component
+Log all HTTP activity in the console
