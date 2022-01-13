@@ -7,4 +7,7 @@ JWT is a token based stateless authentication mechanism. Since it is a client-si
 The big advantage of JWT (Token-based Authentication) is that we store the Token on Client side: Local Storage for Browser, Keychain for IOS and SharedPreferences for Android
 Backend jwt data flow 👇
 ![1 backend jwt](https://user-images.githubusercontent.com/81873005/149291469-26811ea6-04db-4c4c-827b-9dede9f68d60.png)
+Frontend jwt dataflow
+![1 frontend jwt](https://user-images.githubusercontent.com/81873005/149292077-5c369772-ef5e-4181-beff-897366129292.png)
+
 
